@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.2.19)  8 JAN 2018 17:51
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.2.19)  14 MAY 2018 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1001,8 +1001,6 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-File: mahin.jpg Graphic file (type QTm)
- <use  "mahin.jpg" >
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 59.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
@@ -1031,54 +1029,25 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
 (Font)              scaled to size 10.0pt on input line 108.
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.111 \CVItem
-             {Fall 2017, \textit{Teaching Assistant}, Amirkabir University o...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--143
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
 
  []
 
-! Misplaced alignment tab character &.
-<argument> ...xtit {Oral Presentation}, Research &
-                                                   Technical Presentation Co...
-l.161 ...troduction To Satellite Control Software}
-                                                  
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 198--199
+Overfull \hbox (12.0pt too wide) in paragraph at lines 204--205
 [][]
  []
 
 [1
 
-]
-File: mahin.jpg Graphic file (type QTm)
- <use  "mahin.jpg" > [2
+] [2
 
 ] (./mahin.aux) ) 
 Here is how much of TeX's memory you used:
- 17597 strings out of 493706
- 319063 string characters out of 6148913
- 418939 words of memory out of 5000000
- 20652 multiletter control sequences out of 15000+600000
+ 17594 strings out of 493706
+ 319043 string characters out of 6148913
+ 418894 words of memory out of 5000000
+ 20651 multiletter control sequences out of 15000+600000
  65711 words of font info for 36 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  63i,16n,54p,959b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
